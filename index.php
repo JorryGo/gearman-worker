@@ -7,6 +7,10 @@ $users = [
     [
         'login'=>'87775556666',
         'password' => '123456',
+    ],
+    [
+        'login'=>'superuser',
+        'password'=>'superpassword',
     ]
 ];
 
